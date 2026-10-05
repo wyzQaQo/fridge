@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight, Wrench, Shield, Package, Gear, CheckCircle } from "@phosphor-icons/react/dist/ssr";

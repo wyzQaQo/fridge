@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import type { Metadata } from "next";
 import { Download } from "@phosphor-icons/react/dist/ssr";
 import Link from "next/link";

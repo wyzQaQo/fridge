@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import { Hero } from "@/components/sections/hero";
 import { ProductCategories } from "@/components/sections/product-categories";
 import { Industries } from "@/components/sections/industries-section";
