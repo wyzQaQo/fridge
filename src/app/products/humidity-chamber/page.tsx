@@ -1,4 +1,3 @@
-export const dynamicParams = false;
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight, CheckCircle } from "@phosphor-icons/react/dist/ssr";

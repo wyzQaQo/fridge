@@ -1,4 +1,3 @@
-export const dynamicParams = false;
 import type { Metadata } from "next";
 import { Envelope, Phone, MapPin, Clock } from "@phosphor-icons/react/dist/ssr";
 import { SITE } from "@/data/site";

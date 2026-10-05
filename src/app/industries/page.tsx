@@ -1,4 +1,3 @@
-export const dynamicParams = false;
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight, Factory, Pill, Flask, Dna } from "@phosphor-icons/react/dist/ssr";
